@@ -22,7 +22,7 @@
     "jsdom": "^8.1.0",
     "mocha": "^2.4.5",
     "webpack": "^1.12.9",
-    "webpack-dev-server": "^1.14.0"
+    "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
     "axios": "^0.16.2",
