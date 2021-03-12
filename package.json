@@ -21,7 +21,7 @@
     "jquery": "^2.2.1",
     "jsdom": "^8.1.0",
     "mocha": "^2.4.5",
-    "webpack": "^1.12.9",
+    "webpack": "^5.25.0",
     "webpack-dev-server": "^1.14.0"
   },
   "dependencies": {
